@@ -362,6 +362,14 @@
 		margin-bottom: 3em;
 	}
 
+	.titleH
+	{
+		margin-bottom: 3em;
+		padding: 0em 0em 3em 0em;
+		border-bottom: 1px solid rgba(0,0,0,.1);
+	}
+
+
 	.titleB
 	{
 		padding: 1.6em 0em 0em 0em;
