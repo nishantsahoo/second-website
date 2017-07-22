@@ -147,7 +147,6 @@
 	ul.style1 h3
 	{
 		padding: 1em 0em 5px 0em;
-		text-transform: uppercase;
 		font-size: 1em;
 		font-weight: 400;
 	}
@@ -467,7 +466,6 @@
 		padding: 2em 1.5em;
 		text-align: center;
 		text-decoration:  none;
-		text-transform: uppercase;
 		font-weight: 700;
 		color: rgba(255,255,255,0.5);
 	}
